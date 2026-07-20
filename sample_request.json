@@ -1,0 +1,244 @@
+{
+  "readings": [
+    {
+      "timestamp": "2026-03-21 04:00:00",
+      "unit_id": "ULT-006",
+      "chamber_temp_c": -76.295,
+      "compressor_current_a": 5.386,
+      "ambient_temp_c": 22.9,
+      "door_open_events": 1,
+      "vibration_g": 0.215,
+      "power_draw_w": 1244.4
+    },
+    {
+      "timestamp": "2026-03-21 05:00:00",
+      "unit_id": "ULT-006",
+      "chamber_temp_c": -75.824,
+      "compressor_current_a": 5.386,
+      "ambient_temp_c": 24.31,
+      "door_open_events": 0,
+      "vibration_g": 0.2174,
+      "power_draw_w": 1262.9
+    },
+    {
+      "timestamp": "2026-03-21 06:00:00",
+      "unit_id": "ULT-006",
+      "chamber_temp_c": -76.063,
+      "compressor_current_a": 5.34,
+      "ambient_temp_c": 23.84,
+      "door_open_events": 0,
+      "vibration_g": 0.2309,
+      "power_draw_w": 1261.0
+    },
+    {
+      "timestamp": "2026-03-21 07:00:00",
+      "unit_id": "ULT-006",
+      "chamber_temp_c": -77.505,
+      "compressor_current_a": 5.226,
+      "ambient_temp_c": 22.92,
+      "door_open_events": 0,
+      "vibration_g": 0.2094,
+      "power_draw_w": 1182.1
+    },
+    {
+      "timestamp": "2026-03-21 08:00:00",
+      "unit_id": "ULT-006",
+      "chamber_temp_c": -76.266,
+      "compressor_current_a": 5.325,
+      "ambient_temp_c": 23.51,
+      "door_open_events": 1,
+      "vibration_g": 0.2049,
+      "power_draw_w": 1206.3
+    },
+    {
+      "timestamp": "2026-03-21 09:00:00",
+      "unit_id": "ULT-006",
+      "chamber_temp_c": -76.398,
+      "compressor_current_a": 5.373,
+      "ambient_temp_c": 23.78,
+      "door_open_events": 0,
+      "vibration_g": 0.2404,
+      "power_draw_w": 1260.8
+    },
+    {
+      "timestamp": "2026-03-21 10:00:00",
+      "unit_id": "ULT-006",
+      "chamber_temp_c": -76.378,
+      "compressor_current_a": 5.364,
+      "ambient_temp_c": 24.15,
+      "door_open_events": 0,
+      "vibration_g": 0.2329,
+      "power_draw_w": 1230.7
+    },
+    {
+      "timestamp": "2026-03-21 11:00:00",
+      "unit_id": "ULT-006",
+      "chamber_temp_c": -76.157,
+      "compressor_current_a": 5.424,
+      "ambient_temp_c": 23.45,
+      "door_open_events": 1,
+      "vibration_g": 0.2112,
+      "power_draw_w": 1230.7
+    },
+    {
+      "timestamp": "2026-03-21 12:00:00",
+      "unit_id": "ULT-006",
+      "chamber_temp_c": -76.376,
+      "compressor_current_a": 5.535,
+      "ambient_temp_c": 21.53,
+      "door_open_events": 0,
+      "vibration_g": 0.2279,
+      "power_draw_w": 1244.0
+    },
+    {
+      "timestamp": "2026-03-21 13:00:00",
+      "unit_id": "ULT-006",
+      "chamber_temp_c": -75.128,
+      "compressor_current_a": 5.555,
+      "ambient_temp_c": 21.88,
+      "door_open_events": 1,
+      "vibration_g": 0.2277,
+      "power_draw_w": 1253.4
+    },
+    {
+      "timestamp": "2026-03-21 14:00:00",
+      "unit_id": "ULT-006",
+      "chamber_temp_c": -74.59,
+      "compressor_current_a": 5.639,
+      "ambient_temp_c": 20.78,
+      "door_open_events": 1,
+      "vibration_g": 0.2169,
+      "power_draw_w": 1283.9
+    },
+    {
+      "timestamp": "2026-03-21 15:00:00",
+      "unit_id": "ULT-006",
+      "chamber_temp_c": -74.55,
+      "compressor_current_a": 5.594,
+      "ambient_temp_c": 20.28,
+      "door_open_events": 0,
+      "vibration_g": 0.2316,
+      "power_draw_w": 1250.3
+    },
+    {
+      "timestamp": "2026-03-21 16:00:00",
+      "unit_id": "ULT-006",
+      "chamber_temp_c": -75.638,
+      "compressor_current_a": 5.532,
+      "ambient_temp_c": 20.77,
+      "door_open_events": 0,
+      "vibration_g": 0.2286,
+      "power_draw_w": 1308.4
+    },
+    {
+      "timestamp": "2026-03-21 17:00:00",
+      "unit_id": "ULT-006",
+      "chamber_temp_c": -76.955,
+      "compressor_current_a": 5.434,
+      "ambient_temp_c": 20.18,
+      "door_open_events": 0,
+      "vibration_g": 0.2433,
+      "power_draw_w": 1253.3
+    },
+    {
+      "timestamp": "2026-03-21 18:00:00",
+      "unit_id": "ULT-006",
+      "chamber_temp_c": -77.202,
+      "compressor_current_a": 5.264,
+      "ambient_temp_c": 20.12,
+      "door_open_events": 0,
+      "vibration_g": 0.2368,
+      "power_draw_w": 1234.2
+    },
+    {
+      "timestamp": "2026-03-21 19:00:00",
+      "unit_id": "ULT-006",
+      "chamber_temp_c": -77.095,
+      "compressor_current_a": 5.176,
+      "ambient_temp_c": 19.23,
+      "door_open_events": 0,
+      "vibration_g": 0.2232,
+      "power_draw_w": 1186.1
+    },
+    {
+      "timestamp": "2026-03-21 20:00:00",
+      "unit_id": "ULT-006",
+      "chamber_temp_c": -76.891,
+      "compressor_current_a": 5.22,
+      "ambient_temp_c": 19.78,
+      "door_open_events": 0,
+      "vibration_g": 0.2235,
+      "power_draw_w": 1233.6
+    },
+    {
+      "timestamp": "2026-03-21 21:00:00",
+      "unit_id": "ULT-006",
+      "chamber_temp_c": -77.165,
+      "compressor_current_a": 5.406,
+      "ambient_temp_c": 20.14,
+      "door_open_events": 0,
+      "vibration_g": 0.2393,
+      "power_draw_w": 1237.6
+    },
+    {
+      "timestamp": "2026-03-21 22:00:00",
+      "unit_id": "ULT-006",
+      "chamber_temp_c": -75.935,
+      "compressor_current_a": 5.51,
+      "ambient_temp_c": 21.26,
+      "door_open_events": 1,
+      "vibration_g": 0.2065,
+      "power_draw_w": 1259.5
+    },
+    {
+      "timestamp": "2026-03-21 23:00:00",
+      "unit_id": "ULT-006",
+      "chamber_temp_c": -75.97,
+      "compressor_current_a": 5.414,
+      "ambient_temp_c": 21.85,
+      "door_open_events": 0,
+      "vibration_g": 0.2173,
+      "power_draw_w": 1262.1
+    },
+    {
+      "timestamp": "2026-03-22 00:00:00",
+      "unit_id": "ULT-006",
+      "chamber_temp_c": -74.514,
+      "compressor_current_a": 5.777,
+      "ambient_temp_c": 22.87,
+      "door_open_events": 1,
+      "vibration_g": 0.2322,
+      "power_draw_w": 1333.8
+    },
+    {
+      "timestamp": "2026-03-22 01:00:00",
+      "unit_id": "ULT-006",
+      "chamber_temp_c": -75.772,
+      "compressor_current_a": 5.481,
+      "ambient_temp_c": 22.05,
+      "door_open_events": 0,
+      "vibration_g": 0.2337,
+      "power_draw_w": 1246.0
+    },
+    {
+      "timestamp": "2026-03-22 02:00:00",
+      "unit_id": "ULT-006",
+      "chamber_temp_c": -74.004,
+      "compressor_current_a": 5.785,
+      "ambient_temp_c": 23.88,
+      "door_open_events": 2,
+      "vibration_g": 0.2513,
+      "power_draw_w": 1290.8
+    },
+    {
+      "timestamp": "2026-03-22 03:00:00",
+      "unit_id": "ULT-006",
+      "chamber_temp_c": -75.059,
+      "compressor_current_a": 5.648,
+      "ambient_temp_c": 23.28,
+      "door_open_events": 0,
+      "vibration_g": 0.2159,
+      "power_draw_w": 1269.7
+    }
+  ]
+}

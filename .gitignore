@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+venv/
+*.egg-info/
+
+# Generated artifacts (reproducible via scripts, kept out of git to keep repo lightweight)
+data/*.csv
+src/model_bundle.joblib
+outputs/decision_log.csv
