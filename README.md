@@ -1,12 +1,12 @@
-# Autonomous AI for Predictive Maintenance — ULT Freezer Fleet
+# Autonomous AI for Predictive Maintenance ~ ULT Freezer Fleet
 
-A working implementation of a **perceive → reason → act** autonomous AI system, applied to predictive maintenance for Ultra-Low Temperature (ULT) freezers — the equipment used in cold-chain storage for vaccines, biologics, and lab samples.
+A working implementation of a **perceive → reason → act** autonomous AI system, applied to predictive maintenance for Ultra-Low Temperature (ULT) freezers; the equipment used in cold-chain storage for vaccines, biologics, and lab samples.
 
-Most predictive maintenance systems stop at "predict": they output a risk score on a dashboard and leave the decision to a human. This project closes the loop — it perceives sensor state, reasons about risk using a blended ML approach, and **acts** by issuing a concrete, logged decision (monitor / schedule maintenance / dispatch technician / auto-adjust setpoint).
+Most predictive maintenance systems stop at "predict": they output a risk score on a dashboard and leave the decision to a human. This project closes the loop; it perceives sensor state, reasons about risk using a blended ML approach, and **acts** by issuing a concrete, logged decision (monitor / schedule maintenance / dispatch technician / auto-adjust setpoint).
 
 ## Why this exists
 
-Most predictive maintenance systems stop at a risk score on a dashboard. The interesting engineering problem is what happens *after* that number — deciding what to actually do about it, and doing it early enough to matter. That's what this closes the loop on.
+Most predictive maintenance systems stop at a risk score on a dashboard. The interesting engineering problem is what happens *after* that number; deciding what to actually do about it, and doing it early enough to matter. That's what this closes the loop on.
 
 ## Architecture
 
@@ -49,7 +49,7 @@ Trained and evaluated with a **group-level split** (entire units held out, not j
 
 ![Action distribution](outputs/action_distribution.png)
 
-Note: this uses synthetic sensor data with an engineered degradation signal, so these numbers demonstrate that the *architecture* works end to end — they aren't a claim about performance on real fleet data, which would need real telemetry and domain validation.
+Note: this uses synthetic sensor data with an engineered degradation signal, so these numbers demonstrate that the *architecture* works end to end; they aren't a claim about performance on real fleet data, which would need real telemetry and domain validation.
 
 ## Running it
 
